@@ -1,0 +1,14 @@
+{
+  "name": "devops-cicd-pro",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Production-style Node.js DevOps portfolio project with health checks, metrics, Docker and GitHub Actions CI/CD.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
